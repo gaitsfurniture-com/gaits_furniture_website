@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial,
+sans-serif;
+    background: #f8f5ef;
+    color: #333;
+}
+
+header {
+    background: #1f1f1f;
+    color: golf;
+    text-align: center;
+    padding:20px;
+}
+
+main {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+button {
+    background: gold
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
